@@ -74,4 +74,4 @@ From the above, we can conlude that our table is already in 3NF form hence we ca
 
 # Final Implementation
 **PostgreSQL Implementation**
-
+https://github.com/JonathanBaidoo/ACS-3902--Banking/blob/main/Bank%20DB.sql
