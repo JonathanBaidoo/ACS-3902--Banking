@@ -70,4 +70,8 @@ No transitive dependencies were identified so no new tables are made.
 Multiple tables have a one-to-many relationships and will have foreign keys.
 The relationship tables help to manage entity relationship since they contain the primary keys of their adjacent tables
 
-From the above, we can conlude that our table is already in 3NF form hence we can proceed to the implementation phase of the project. REPHRASE
+From the above, we can conlude that our table is already in 3NF form hence we can proceed to the implementation phase of the project.
+
+# Final Implementation
+**PostgreSQL Implementation**
+
