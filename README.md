@@ -73,5 +73,5 @@ The relationship tables help to manage entity relationship since they contain th
 From the above, we can conlude that our table is already in 3NF form hence we can proceed to the implementation phase of the project.
 
 # Final Implementation
-**PostgreSQL Implementation included in link bankDB.sql**
+**PostgreSQL Implementation included in link bankDB.sql.**
 
